@@ -9,56 +9,32 @@
   "keywords": [
     "tokens"
   ],
-  "timestamp": "2025-09-05T16:00:00Z",
+  "timestamp": "2025-09-17T10:40:00Z",
 
   "tokens": [
     {
-      "chainId": 543210,
-      "address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+      "chainId": 6985385,
+      "address": "0x31B1AaE8325C36534549b52d94bC6452f246c41E",
+      "symbol": "WH",
+      "name": "Wrapped Humanity",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/protofire/humanity-token-list/main/assets/humanity-logo.png"
+    },
+    {
+      "chainId": 6985385,
+      "address": "0x81f200386991081F3dca22E9b07ae183BE0C7E17",
+      "symbol": "USDT",
+      "name": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/protofire/humanity-token-list/main/assets/USDT.png"
+    },
+    {
+      "chainId": 6985385,
+      "address": "0x439cf32A7157fB60Dd23ab40ce7Bfa435db0B440",
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
-    },
-    {
-      "chainId": 543210,
-      "address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
-      "symbol": "USDC",
-      "name": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
-      "symbol": "WETH",
-      "name": "Wrapped Ether",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
-      "symbol": "USDC.e",
-      "name": "Bridged USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
-    },
-    {
-      "chainId": 360,
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "WETH",
-      "name": "Wrapped Ether",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/WETH.png"
-    },
-    {
-      "chainId": 360,
-      "address": "0xdb7DD8B00EdC5778Fe00B2408bf35C7c054f8BBe",
-      "symbol": "USDC",
-      "name": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/protofire/token-list/main/assets/USDC.png"
     }
   ]
 }
